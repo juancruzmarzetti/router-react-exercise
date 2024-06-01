@@ -1,7 +1,7 @@
 
 const ErrorComponent = () => {
   return (
-    <div>Error404</div>
+    <h1>Error404</h1>
   )
 }
 
